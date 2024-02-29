@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ganesh Kirwale Patil
 - 👀 I’m interested in Full stack developement
-- 🌱 I’m currently learning Diploma in Full stack Java
+- 🌱 I’m currently pursuing Post Graduate Diploma in Advanced Computing @Sunbeam, Pune (CDAC ACTS)
 - 📫 How to reach me ...@Gmail- ganeshpatil6282@gmail.com
 
 <!---
